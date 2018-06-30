@@ -1,0 +1,54 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+.bodystyle{
+    padding-top: 195px;
+}
+.form_padding{
+    margin-top:45px;
+}
+.font_style{
+    color: white;
+    font-weight: bold;
+}
+.weight{
+    font-weight: bold;
+}
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 15px 15px;
+    font-size: 17px;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #1a762d;
+}
+#info {
+  height: 150px;
+  border: 1px solid;
+}
+.field {
+  height: 50px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border: 1px solid;
+}
+.field .span_holdr {
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
